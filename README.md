@@ -13,8 +13,9 @@ Require
 User guide
 ------------------
 1. Connect serial and ESP8266 module.
-2. Open ESP8266 Config.
-   2.1 Select serial port.
-   2.2 Select Baudrate.
-3. Click connect and waiting for get mode , mux and firmware version. After that program will be enable.
+2. Open ESP8266 Config.  
+   2.1 Select serial port.  
+   2.2 Select Baudrate.  
+   2.3 Connect.  
+3. Waiting for value of mode , mux and firmware version. After that program will be enable.
 4. Enjoy,Please notify us if you get error.
