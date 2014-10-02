@@ -1,9 +1,8 @@
 ESP8266-Config
 ==============
-Program by : AppStack ,Thailand
-Programmer : @Svl2Nuk3
-           : @UltraMCU
-Thanks     : Ayarafun , RaspberyPi 66 Club
+Program by : [AppStack](http://www.facebook.com/appstack.in.th) ,Thailand  
+Programmer : @Svl2Nuk3  ,  @UltraMCU  
+Thanks     : [Ayarafun](https://www.facebook.com/ayarafun.club) , [RaspberyPi 66 Club](https://www.facebook.com/RaspberryPi66)  
 
 
 Require
@@ -19,10 +18,3 @@ User guide
    2.2 Select Baudrate.
 3. Click connect and waiting for get mode , mux and firmware version. After that program will be enable.
 4. Enjoy,Please notify us if you get error.
-
-<script async src="paypal-button.min.js?merchant=YOUR_MERCHANT_ID"
-    data-button="donate"
-    data-type="form"
-    data-name="My donation"
-    data-amount="1.00"
-></script>
